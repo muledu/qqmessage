@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QQMessage", "QQMessage\QQMessage.csproj", "{14DC5F56-CDA1-4AC2-A663-EC93212C927E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QQ.NET", "Lib\QQ.NET\QQ.NET.csproj", "{4710DD68-E9E8-4928-BDB0-92C3A8E6C0B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14DC5F56-CDA1-4AC2-A663-EC93212C927E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14DC5F56-CDA1-4AC2-A663-EC93212C927E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14DC5F56-CDA1-4AC2-A663-EC93212C927E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14DC5F56-CDA1-4AC2-A663-EC93212C927E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4710DD68-E9E8-4928-BDB0-92C3A8E6C0B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4710DD68-E9E8-4928-BDB0-92C3A8E6C0B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4710DD68-E9E8-4928-BDB0-92C3A8E6C0B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4710DD68-E9E8-4928-BDB0-92C3A8E6C0B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
